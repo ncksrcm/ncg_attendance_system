@@ -1,0 +1,9 @@
+Array
+(
+    [absent] => 0
+    [present] => 1
+    [tardiness] => 0
+    [student_id] => 143
+    [section] => Echo
+    [student_name] => Leo Marcos
+)
